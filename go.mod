@@ -3,7 +3,7 @@ module github.com/stieneee/mumble-discord-bridge
 go 1.24
 
 require (
-	github.com/bwmarrin/discordgo v0.29.0
+	github.com/bwmarrin/discordgo v0.29.1-0.20251229161010-9f6aa8159fc6
 	github.com/joho/godotenv v1.5.1
 	github.com/prometheus/client_golang v1.23.0
 	github.com/stieneee/gopus v0.0.0-20210424193312-6d10f6090335
@@ -19,7 +19,6 @@ require (
 	github.com/prometheus/client_model v0.6.2 // indirect
 	github.com/prometheus/common v0.65.0 // indirect
 	github.com/prometheus/procfs v0.16.1 // indirect
-	golang.org/x/crypto v0.38.0 // indirect
 	golang.org/x/net v0.40.0 // indirect
 	golang.org/x/sys v0.33.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
